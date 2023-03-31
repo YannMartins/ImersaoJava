@@ -14,7 +14,7 @@
 
 # Descrição do Projeto
 
-Programa na linguagem Java com o intuito de ler uma API de filmes e listar o top 10, contendo título, URL do poster e nota no imDb referente ao filme. Utilizando desta leitura para criar e modificar figurinhas para o Whatsapp, a partir da avaliação do próprio filme.
+Programa na linguagem Java com o intuito de ler uma API de filmes e listar o top 10, contendo título, URL do poster e nota no imDb. Utilizando desta leitura para criar e modificar figurinhas para as mídias sociais, a partir da avaliação (nota no imDb) do próprio filme.
 
 # Autor
 
