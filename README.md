@@ -14,7 +14,36 @@
 
 # Descrição do Projeto
 
-Programa na linguagem Java com o intuito de ler uma API de filmes e listar o top 10, contendo título, URL do poster e nota no imDb. Utilizando desta leitura para criar e modificar figurinhas para as mídias sociais, a partir da avaliação (nota no imDb) do próprio filme.
+## Aula 1 | Consumindo uma API de filmes com Java
+
+Aplicação na linguagem Java com o intuito de consumir uma API de filmes e listar o top 10, contendo título, URL do poster e nota no imDb do filme.
+
+### Resultado:
+
+![image](https://user-images.githubusercontent.com/102706324/229182966-aa3c16d2-26f9-4cfd-8cd3-9f1f80e8de37.png)
+
+
+## Aula 2 | Gerando figurinhas para WhatsApp
+
+Utilizando-se da leitura originada na Aula 1, para criar um gerador que modifica figurinhas para as mídias sociais, a partir da avaliação (nota no imDb) do próprio filme.
+
+### Resultado:
+
+![image](https://user-images.githubusercontent.com/102706324/229186694-3b69007f-1820-436f-9990-a46298d65f20.png)
+
+
+## Aula 3 | Ligando as pontas, refatoração e orientação a obejtos
+
+Fazendo a ligação no que foi visto até então, utilizando do processo de refatoração com o intuito de melhorar o nosso código e aplicando conhecimentos da orientação a objetos.
+
+### Resultado:
+
+🚧 EM CONSTRUÇÃO 🚧
+
+## Aula 4 | Criando nossa própria API com Spring
+
+## Aula 5 | Publicando nossa API no Cloud
+
 
 # Autor
 
