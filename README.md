@@ -1,4 +1,4 @@
-# Consumindo uma API de filmes com Java
+# Imersão JAVA
 
 ![Imersão Java](https://user-images.githubusercontent.com/102706324/228231163-c2691b2f-17ff-403b-b3ad-9d2527a56b46.png)
 
