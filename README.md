@@ -1,7 +1,7 @@
 # <h1 align="center">Imersão JAVA</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102706324/229348190-daaddee0-4e73-405a-9a89-67f8d34066e4.png">
+  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/java/java_256x256.png">
 </p>
 
 ![Badge em Construção](http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=lightblue&style=for-the-badge)
