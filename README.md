@@ -32,7 +32,7 @@ Utilizando-se da leitura originada na Aula 1, para criar um gerador que modifica
 
 ### Resultado:
 
-![image](https://user-images.githubusercontent.com/102706324/229186694-3b69007f-1820-436f-9990-a46298d65f20.png)
+![image](https://user-images.githubusercontent.com/102706324/229373236-04482c76-9f00-4260-8d01-6821ec46974a.png)
 
 
 ## Aula 3 | Ligando as pontas, refatoração e orientação a objetos
