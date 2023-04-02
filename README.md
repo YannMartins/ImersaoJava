@@ -38,6 +38,7 @@ Fazendo a ligação no que foi visto até então, utilizando do processo de refa
 
 ### Resultado:
 
+![image](https://user-images.githubusercontent.com/102706324/229328709-d4d21128-1cdf-4aaf-85a3-d9b111ca50cd.png)
 ![image](https://user-images.githubusercontent.com/102706324/229328600-02c4e491-d4cc-4ef3-b91b-f68336eecfd5.png)
 ![image](https://user-images.githubusercontent.com/102706324/229328637-0ad5cc41-a53e-49ef-b72f-5256ad8fec69.png)
 
