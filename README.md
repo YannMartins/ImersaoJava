@@ -4,6 +4,7 @@
   <img src="https://user-images.githubusercontent.com/102706324/229348190-daaddee0-4e73-405a-9a89-67f8d34066e4.png">
 </p>
 
+![Badge em Construção](http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=lightblue&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # Índice 
@@ -34,7 +35,7 @@ Utilizando-se da leitura originada na Aula 1, para criar um gerador que modifica
 ![image](https://user-images.githubusercontent.com/102706324/229186694-3b69007f-1820-436f-9990-a46298d65f20.png)
 
 
-## Aula 3 | Ligando as pontas, refatoração e orientação a obejtos
+## Aula 3 | Ligando as pontas, refatoração e orientação a objetos
 
 Fazendo a ligação no que foi visto até então, utilizando do processo de refatoração com o intuito de melhorar o nosso código e aplicando conhecimentos da orientação a objetos.
 
