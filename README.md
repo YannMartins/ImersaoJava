@@ -1,6 +1,8 @@
-# Imersão JAVA
+# <h1 align="center">Imersão JAVA</h1>
 
-![Imersão Java](https://user-images.githubusercontent.com/102706324/228231163-c2691b2f-17ff-403b-b3ad-9d2527a56b46.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102706324/229348190-daaddee0-4e73-405a-9a89-67f8d34066e4.png">
+</p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
