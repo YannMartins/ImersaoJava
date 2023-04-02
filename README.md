@@ -2,7 +2,7 @@
 
 ![Imersão Java](https://user-images.githubusercontent.com/102706324/228231163-c2691b2f-17ff-403b-b3ad-9d2527a56b46.png)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # Índice 
 
