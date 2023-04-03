@@ -37,7 +37,7 @@ public class GeradoraDeFigurinhas {
             graphics.drawImage(imagemSobreposicao, 0, posicaoImagemSobreposicaoY, null);
 
             // configurar a fonte
-            var fonte = new Font("Impact", Font.BOLD, 96);
+            var fonte = new Font("Impact", Font.BOLD, 32);
             graphics.setColor(Color.ORANGE);
             graphics.setFont(fonte);
 
@@ -66,7 +66,5 @@ public class GeradoraDeFigurinhas {
 
             // escrever a nova imagem em um arquivo
             ImageIO.write(novaImagem, "png", new File(nomeArquivo));
-
     }
-
 }

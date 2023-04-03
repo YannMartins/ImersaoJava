@@ -12,7 +12,5 @@ public class ExtratorDeConteudoDaNasa implements ExtratorDeConteudo {
         return listaDeAtributos.stream()
             .map(atributos -> new Conteudo(atributos.get("title"), atributos.get("url")))
             .toList();
-
         }
-
 }

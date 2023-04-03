@@ -8,11 +8,13 @@ public class App {
 
     public static void main(String[] args) throws Exception {
 
-        API api = API.IMDB_MOST_POPULAR;
+        // API api = API.IMDB_TOP_MOVIES;
         
-        String url = api.getUrl();
+        // String url = api.getUrl();
+        // ExtratorDeConteudo extrator = api.getExtrator();
 
-        ExtratorDeConteudo extrator = api.getExtrator();
+        String url = "http://localhost:8080/linguagens";
+        ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
@@ -28,12 +30,12 @@ public class App {
 
             String textoFigurinha;
             InputStream imagemYann; 
-            // if (conteudo.getNota() >= 8.0) {
+            //if (conteudo.nota() >= 9.0) {
                 textoFigurinha = "LOUCURA";
-                imagemYann = new FileInputStream(new File("sobreposicao/Eu.jpeg"));
+                imagemYann = new FileInputStream(new File("sobreposicao/download.jpeg"));
             /* } else {
-                textoFigurinha = "MARROMENO";
-                imagemYann = new FileInputStream(new File("sobreposicao/file.jpeg"));
+                textoFigurinha = "BOMBOM";
+                imagemYann = new FileInputStream(new File("sobreposicao/top.png"));
             } */
 
             InputStream inputStream = new URL(conteudo.urlImagem()).openStream();

@@ -12,7 +12,5 @@ public class ExtratorDeConteudoDoIMDB implements ExtratorDeConteudo {
         return listaDeAtributos.stream()
         .map(atributos -> new Conteudo(atributos.get("title"), atributos.get("image")))
         .toList();
-
       }
-      
 }

@@ -22,5 +22,4 @@ public class ClienteHttp {
             throw new ClienteHttpException("Erro ao consultar a URL. :(");
         }
     }
-
 }
