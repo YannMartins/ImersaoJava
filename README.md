@@ -37,7 +37,7 @@ Construindo uma aplicação na linguagem Java com o intuito de consumir uma API 
 
 ## Aula 2 | Gerando figurinhas para WhatsApp
 
-Criando um gerador de figurinhas para o WhatsApp/mídias sociais, explorando e utilizando outras bibliotecas nativas do Java, a partir da avaliação (nota no IMDb) do próprio filme. Aprimorando as habilidades em manipulação de imagens.
+Criando um gerador de figurinhas para o WhatsApp/mídias sociais, a partir da avaliação (nota no IMDb) do próprio filme, explorando e utilizando outras bibliotecas nativas do Java. Aprimorando as habilidades em manipulação de imagens.
 
 ### Resultado:
 
