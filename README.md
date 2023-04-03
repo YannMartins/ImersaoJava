@@ -8,7 +8,7 @@
 
 ## 🗂️ Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de Capa](#Título-e-Imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Aula 1 | Consumindo uma API de filmes com Java](#aula-1-Consumindo-uma-API-de-filmes-com-Java)
@@ -16,6 +16,7 @@
 * [Aula 3 | Ligando as pontas, refatoração e orientação a objetos](#aula-3-Ligando-as-pontas,-refatoração-e-orientação-a-objetos)
 * [Aula 4 | Criando nossa própria API com Spring](#aula-4-Criando-nossa-própria-API-com-Spring)
 * [Aula 5 | Publicando nossa API no Cloud](#aula-5-Publicando-nossa-API-no-Cloud)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Autor](#autor)
 
 ## 🌐 Descrição do Projeto
@@ -59,7 +60,7 @@ Fazendo a ligação no que foi visto até então, utilizando do processo de refa
 
 Construindo uma API utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL (MongoDB). Além disso, através da plataforma de API, Postman, foram feitas as quatro operações básicas do desenvolvimento de uma aplicação; create, read, update e delete (CRUD).
 
-| Framework | Banco de dados | Plataforma API |
+| Framework | Banco de Dados | Plataforma API |
 | - | - | - |
 | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
@@ -71,11 +72,25 @@ Construindo uma API utilizando ferramentas profissionais como o Spring Framework
 
 ## Aula 5 | Publicando nossa API no Cloud
 
-![Badge em Construção](http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=lightblue&style=for-the-badge)
+Na quinta e última aula da imersão Java, tornamos a aplicação acessível para qualquer pessoa, fazendo o deploy na nuvem com ajuda das plataformas Docker e Fly.io. Possibilitando agora gerar figurinhas a partir do conteúdo da nossa própria API.
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
+| Containers | PaaS |
+| - | - |
+| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![image](https://user-images.githubusercontent.com/102706324/229598522-cd73871f-930e-4e99-9a6a-40d22ec1c9fa.png) |
+
+### Resultado:
+
+![Screenshot_3](https://user-images.githubusercontent.com/102706324/229589071-0f2130d9-ebad-4bf5-a84a-d2074c421193.png)
+![Screenshot_1](https://user-images.githubusercontent.com/102706324/229589083-110b526d-3b10-4971-b9ab-441962d488ff.png)
+![Screenshot_2](https://user-images.githubusercontent.com/102706324/229589105-6c5b5052-1387-4d0d-a106-96215f4dd131.png)
+
+## 📚 Tecnologias Utilizadas
+
+- ``Java 17``
+- ``Spring Framework``
+- ``Processo de Refatoração``
+- ``Paradigma de Orientação a Objetos``
+- ``Sistema CRUD``
 
 ## 👨‍💻 Autor
 
