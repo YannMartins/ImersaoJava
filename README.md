@@ -9,16 +9,18 @@
 ## 🗂️ Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Índice](#Índice)
-* [Descrição do Projeto](#Descrição-do-Projeto)
-* [Aula 1 | Consumindo uma API de filmes com Java](#Aula-1-|-Consumindo-uma-API-de-filmes-com-Java)
-* [Aula 2 | Gerando figurinhas para WhatsApp](#Aula-2-|-Gerando-figurinhas-para-WhatsApp)
-* [Aula 3 | Ligando as pontas, refatoração e orientação a objetos](#Aula-3-|-Ligando-as-pontas,-refatoração-e-orientação-a-objetos)
-* [Aula 4 | Criando nossa própria API com Spring](#Aula-4-|-Criando-nossa-própria-API-com-Spring)
-* [Aula 5 | Publicando nossa API no Cloud](#Aula-5-|-Publicando-nossa-API-no-Cloud)
-* [Autor](#Autor)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Aula 1 | Consumindo uma API de filmes com Java](#aula-1-Consumindo-uma-API-de-filmes-com-Java)
+* [Aula 2 | Gerando figurinhas para WhatsApp](#aula-2-Gerando-figurinhas-para-WhatsApp)
+* [Aula 3 | Ligando as pontas, refatoração e orientação a objetos](#aula-3-Ligando-as-pontas,-refatoração-e-orientação-a-objetos)
+* [Aula 4 | Criando nossa própria API com Spring](#aula-4-Criando-nossa-própria-API-com-Spring)
+* [Aula 5 | Publicando nossa API no Cloud](#aula-5-Publicando-nossa-API-no-Cloud)
+* [Autor](#autor)
 
 ## 🌐 Descrição do Projeto
+
+  `Desenvolvendo do zero minha primeira aplicação na linguagem de programação Java, consumindo uma API de site de filmes e aprimorando meu conhecimento a partir disso.`
 
 ## Aula 1 | Consumindo uma API de filmes com Java
 
@@ -70,6 +72,10 @@ Construindo uma API utilizando ferramentas profissionais como o Spring Framework
 ## Aula 5 | Publicando nossa API no Cloud
 
 ![Badge em Construção](http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=lightblue&style=for-the-badge)
+
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
 ## 👨‍💻 Autor
 
