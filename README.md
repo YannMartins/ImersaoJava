@@ -24,7 +24,7 @@
 
 ## Aula 1 | Consumindo uma API de filmes com Java
 
-Construindo uma aplicação na linguagem Java com o intuito de consumir uma API de filmes (do iMDb), listando o top 10, título, URL do poster e sua classificação. Testando outras APIs, como a de filmes mais populares, e personalizando a saída dos dados no Visual Studio Code.
+Construindo uma aplicação na linguagem Java com o intuito de consumir uma API de filmes (do IMDb), listando o top 10, título, URL do poster e sua classificação. Testando outras APIs, como a de filmes mais populares, e personalizando a saída dos dados no Visual Studio Code.
 
 | IDE |
 | - |
@@ -37,7 +37,7 @@ Construindo uma aplicação na linguagem Java com o intuito de consumir uma API 
 
 ## Aula 2 | Gerando figurinhas para WhatsApp
 
-Criando um gerador de figurinhas para o WhatsApp/mídias sociais, explorando e utilizando outras bibliotecas nativas do Java, a partir da avaliação (nota no imDb) do próprio filme. Aprimorando as habilidades em manipulação de imagens.
+Criando um gerador de figurinhas para o WhatsApp/mídias sociais, explorando e utilizando outras bibliotecas nativas do Java, a partir da avaliação (nota no IMDb) do próprio filme. Aprimorando as habilidades em manipulação de imagens.
 
 ### Resultado:
 
