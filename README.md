@@ -87,10 +87,11 @@ Na quinta e última aula da imersão Java, tornamos a aplicação acessível par
 ## 📚 Tecnologias Utilizadas
 
 - ``Java 17``
-- ``Spring Framework``
 - ``Processo de Refatoração``
 - ``Paradigma de Orientação a Objetos``
 - ``Sistema CRUD``
+- ``MongoDB``
+- ``Docker``
 
 ## 👨‍💻 Autor
 
