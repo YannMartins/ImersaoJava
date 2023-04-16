@@ -21,7 +21,7 @@
 
 ## 🌐 Descrição do Projeto
 
-  `Desenvolvendo do zero minha primeira aplicação na linguagem de programação Java, consumindo uma API de site de filmes e aprimorando meu conhecimento a partir disso.`
+  *Desenvolvendo do zero minha primeira aplicação na linguagem de programação Java, a partir de 5 aulas de programação oferecidas pela [`Alura`](https://www.alura.com.br/), através do programa [`Imersão Java`](https://www.alura.com.br/imersao-java), com o intuito de consumir uma API de site de filmes, ampliar meu portfólio e aprimorar meu conhecimento a partir disso.*
 
 ## Aula 1 | Consumindo uma API de filmes com Java
 
