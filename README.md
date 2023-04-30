@@ -92,7 +92,7 @@ Na quinta e última aula da imersão Java, tornamos a aplicação acessível par
 - ``MongoDB``
 - ``Docker``
 
-## 👨‍💻 Autor
+## 👨🏾‍💻 Autor
 
 | [<img src="https://user-images.githubusercontent.com/102706324/228234163-a0616b0f-c2d2-48d8-8fc6-ce4e8b2cb17c.jpeg" width=115><br><sub>Yann Martins de Sousa</sub>](https://github.com/YannMartins) |  
 | :---: |
