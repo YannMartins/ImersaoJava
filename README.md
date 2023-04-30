@@ -15,8 +15,8 @@
 * [Aula 3 | Ligando as pontas, refatoração e orientação a objetos](#aula-3-Ligando-as-pontas,-refatoração-e-orientação-a-objetos)
 * [Aula 4 | Criando nossa própria API com Spring](#aula-4-Criando-nossa-própria-API-com-Spring)
 * [Aula 5 | Publicando nossa API no Cloud](#aula-5-Publicando-nossa-API-no-Cloud)
-* [Resultado final](#resultado-final)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Resultado Final](#resultado-final)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Autor](#autor)
 
 ## 🌐 Descrição do Projeto
@@ -83,11 +83,11 @@ Na quinta e última aula da imersão Java, tornamos a aplicação acessível par
 ![Screenshot_3](https://user-images.githubusercontent.com/102706324/229589071-0f2130d9-ebad-4bf5-a84a-d2074c421193.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/102706324/229589083-110b526d-3b10-4971-b9ab-441962d488ff.png)
 
-## 🏁 Resultado final:
+## 🏁 Resultado Final
 
 ![Screenshot_2](https://user-images.githubusercontent.com/102706324/229589105-6c5b5052-1387-4d0d-a106-96215f4dd131.png)
 
-## 📚 Tecnologias utilizadas
+## 📚 Tecnologias Utilizadas
 
 - ``Java 17``
 - ``Processo de Refatoração``
