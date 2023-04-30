@@ -23,7 +23,7 @@
 
   *Desenvolvendo do zero minha primeira aplicação na linguagem de programação Java, a partir de 5 aulas de programação oferecidas pela [`Alura`](https://www.alura.com.br/), através do programa [`Imersão Java`](https://www.alura.com.br/imersao-java), com o intuito de consumir uma API de site de filmes, ampliar meu portfólio e aprimorar meu conhecimento a partir disso.*
 
-## Aula 1 | Consumindo uma API de filmes com Java
+## ![java_16x16](https://user-images.githubusercontent.com/102706324/235334561-eae050f8-06c0-401f-bb86-16c727cf29c1.png) Aula 1 | Consumindo uma API de filmes com Java
 
 Construindo uma aplicação na linguagem Java com o intuito de consumir uma API de filmes (do IMDb), listando o top 10, título, URL do poster e sua classificação. Testando outras APIs, como a de filmes mais populares, e personalizando a saída dos dados no Visual Studio Code.
 
@@ -36,7 +36,7 @@ Construindo uma aplicação na linguagem Java com o intuito de consumir uma API 
 ![image](https://user-images.githubusercontent.com/102706324/229182966-aa3c16d2-26f9-4cfd-8cd3-9f1f80e8de37.png)
 
 
-## Aula 2 | Gerando figurinhas para WhatsApp
+## ![java_16x16](https://user-images.githubusercontent.com/102706324/235334561-eae050f8-06c0-401f-bb86-16c727cf29c1.png) Aula 2 | Gerando figurinhas para WhatsApp
 
 Criando um gerador de figurinhas para o WhatsApp/mídias sociais, a partir da avaliação (nota no IMDb) do próprio filme, explorando e utilizando outras bibliotecas nativas do Java. Aprimorando as habilidades em manipulação de imagens.
 
@@ -45,7 +45,7 @@ Criando um gerador de figurinhas para o WhatsApp/mídias sociais, a partir da av
 ![image](https://user-images.githubusercontent.com/102706324/229373236-04482c76-9f00-4260-8d01-6821ec46974a.png)
 
 
-## Aula 3 | Ligando as pontas, refatoração e orientação a objetos
+## ![java_16x16](https://user-images.githubusercontent.com/102706324/235334561-eae050f8-06c0-401f-bb86-16c727cf29c1.png) Aula 3 | Ligando as pontas, refatoração e orientação a objetos
 
 Fazendo a ligação no que foi visto até então, utilizando do processo de refatoração com o intuito de melhorar o nosso código e torná-lo mais compreensível e de fácil manipulação. Aplicando conhecimentos da orientação a objetos.
 
@@ -56,7 +56,7 @@ Fazendo a ligação no que foi visto até então, utilizando do processo de refa
 ![image](https://user-images.githubusercontent.com/102706324/229328637-0ad5cc41-a53e-49ef-b72f-5256ad8fec69.png)
 
 
-## Aula 4 | Criando nossa própria API com Spring
+## ![java_16x16](https://user-images.githubusercontent.com/102706324/235334561-eae050f8-06c0-401f-bb86-16c727cf29c1.png) Aula 4 | Criando nossa própria API com Spring
 
 Construindo uma API utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL (MongoDB). Além disso, através da plataforma de API, Postman, foram feitas as quatro operações básicas do desenvolvimento de uma aplicação; create, read, update e delete (CRUD).
 
@@ -70,7 +70,7 @@ Construindo uma API utilizando ferramentas profissionais como o Spring Framework
 ![image](https://user-images.githubusercontent.com/102706324/229455529-f822dc87-af19-47d3-a6b1-ad2beffb866b.png)
 
 
-## Aula 5 | Publicando nossa API no Cloud
+## ![java_16x16](https://user-images.githubusercontent.com/102706324/235334561-eae050f8-06c0-401f-bb86-16c727cf29c1.png) Aula 5 | Publicando nossa API no Cloud
 
 Na quinta e última aula da imersão Java, tornamos a aplicação acessível para qualquer pessoa, fazendo o deploy na nuvem com ajuda das plataformas Docker e Fly.io. Possibilitando agora gerar figurinhas a partir do conteúdo da nossa própria API.
 
