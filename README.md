@@ -8,7 +8,6 @@
 
 ## 🗂️ Índice 
 
-* [Título e Imagem de Capa](#Título-e-Imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Aula 1 | Consumindo uma API de filmes com Java](#aula-1-Consumindo-uma-API-de-filmes-com-Java)
@@ -16,7 +15,8 @@
 * [Aula 3 | Ligando as pontas, refatoração e orientação a objetos](#aula-3-Ligando-as-pontas,-refatoração-e-orientação-a-objetos)
 * [Aula 4 | Criando nossa própria API com Spring](#aula-4-Criando-nossa-própria-API-com-Spring)
 * [Aula 5 | Publicando nossa API no Cloud](#aula-5-Publicando-nossa-API-no-Cloud)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Resultado final](#resultado-final)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autor](#autor)
 
 ## 🌐 Descrição do Projeto
@@ -82,9 +82,12 @@ Na quinta e última aula da imersão Java, tornamos a aplicação acessível par
 
 ![Screenshot_3](https://user-images.githubusercontent.com/102706324/229589071-0f2130d9-ebad-4bf5-a84a-d2074c421193.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/102706324/229589083-110b526d-3b10-4971-b9ab-441962d488ff.png)
+
+## 🏁 Resultado final:
+
 ![Screenshot_2](https://user-images.githubusercontent.com/102706324/229589105-6c5b5052-1387-4d0d-a106-96215f4dd131.png)
 
-## 📚 Tecnologias Utilizadas
+## 📚 Tecnologias utilizadas
 
 - ``Java 17``
 - ``Processo de Refatoração``
