@@ -18,17 +18,17 @@ public class GeradoraDeFigurinhas {
 
     public void cria(InputStream inputStream, String nomeArquivo, String texto, InputStream inputStreamSobreposicao) throws Exception {
 
-            // leitura da imagem
+            // Leitura da imagem
             // InputStream inputStream = new URL("https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies_1.jpg").openStream();
             BufferedImage imagemOriginal = ImageIO.read(inputStream);
 
-            // cria nova iamgem em memória com transparência e tamanho novo
+            // Cria nova imagem em memória com transparência e tamanho novo
             int largura = imagemOriginal.getWidth();
             int altura = imagemOriginal.getHeight();
             int novaAltura = altura + 200;
             BufferedImage novaImagem = new BufferedImage(largura, novaAltura, BufferedImage.TRANSLUCENT);
 
-            // copiar a imagem original pra nova imagem (em memória) 
+            // Copiar a imagem original pra nova imagem (em memória) 
             Graphics2D graphics = (Graphics2D) novaImagem.getGraphics();
             graphics.drawImage(imagemOriginal, 0, 0, null);
 
@@ -36,12 +36,12 @@ public class GeradoraDeFigurinhas {
             int posicaoImagemSobreposicaoY = novaAltura - imagemSobreposicao.getHeight();
             graphics.drawImage(imagemSobreposicao, 0, posicaoImagemSobreposicaoY, null);
 
-            // configurar a fonte
+            // Configurar a fonte
             var fonte = new Font("Impact", Font.BOLD, 32);
             graphics.setColor(Color.ORANGE);
             graphics.setFont(fonte);
 
-            // escrever uma frase na nova imagem
+            // Escrever uma frase na nova imagem
             FontMetrics fontMetrics = graphics.getFontMetrics();
             Rectangle2D retangulo = fontMetrics.getStringBounds(texto, graphics);
             int larguraTexto = (int) retangulo.getWidth();
@@ -64,7 +64,7 @@ public class GeradoraDeFigurinhas {
             graphics.draw(outline);
             graphics.setClip(outline);
 
-            // escrever a nova imagem em um arquivo
+            // Escrever a nova imagem em um arquivo
             ImageIO.write(novaImagem, "png", new File(nomeArquivo));
     }
 }
