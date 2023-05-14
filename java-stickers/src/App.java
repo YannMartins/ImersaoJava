@@ -22,7 +22,7 @@ public class App {
         var diretorio = new File("figurinhas/");
         diretorio.mkdir();
   
-        // exibir e manipular os dados
+        // Exibir e manipular os dados
         List<Conteudo> conteudos = extrator.extraiConteudos(json);
 
         var geradora = new GeradoraDeFigurinhas();
@@ -30,7 +30,7 @@ public class App {
 
             String textoFigurinha;
             InputStream imagemYann; 
-            //if (conteudo.nota() >= 9.0) {
+            // if (conteudo.nota() >= 9.0) {
                 textoFigurinha = "LOUCURA";
                 imagemYann = new FileInputStream(new File("sobreposicao/download.jpeg"));
             /* } else {
